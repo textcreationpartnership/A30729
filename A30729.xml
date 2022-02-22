@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of Mr. James Lordel who was buried at St. Magnus Church March 27, 1694 by Lilly Butler.</title>
+            <author>Butler, Charles, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30729</idno>
+            <idno type="STC">Wing B6279</idno>
+            <idno type="STC">ESTC R30263</idno>
+            <idno type="EEBO-CITATION">11277151</idno>
+            <idno type="OCLC">ocm 11277151</idno>
+            <idno type="VID">47260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1456:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of Mr. James Lordel who was buried at St. Magnus Church March 27, 1694 by Lilly Butler.</title>
+                  <author>Butler, Charles, d. 1647.</author>
+               </titleStmt>
+               <extent>[2], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lordel, James, d. 1694.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47260:1"/>
+            <p>A SERMON Preached at the FUNERAL OF M<hi rend="sup">r</hi> 
+               <hi>JAMES LORDEL,</hi> WHO WAS Buried at S<hi rend="sup">t</hi> 
+               <hi>MAGNUS</hi> Church, <hi>March</hi> 27. 1694.</p>
+            <p>By <hi>LILLY BUTLER,</hi> Miniſter of S<hi rend="sup">t</hi> 
+               <hi>Mary Aldermanbury.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Brabazon Aylmer,</hi> at the <hi>Three Pigeons</hi> over-againſt the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47260:2"/>
+            <pb facs="tcp:47260:2"/>
+            <head>To my Honoured Friends, M<hi rend="sup">r</hi>
+               <list>
+                  <item>
+                     <hi>John Lordel,</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Lordel,</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Lordel,</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Lordel,</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Lordel,</hi>
+                  </item>
+                  <item>and M<hi rend="sup">rs</hi> 
+                     <hi>Mary Lordel,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>John Trymmer,</hi>
+                  </item>
+                  <item>&amp;</item>
+                  <item>M<hi rend="sup">rs</hi> 
+                     <hi>Sarah Trymmer,</hi>
+                  </item>
+               </list> Brothers and Siſters of the deceaſed Mr. <hi>James Lordel.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Friends,</salute>
+            </opener>
+            <p>MY Obligations to your Good Fa<g ref="char:EOLhyphen"/>mily are ſo very great, that I could not deny your requeſt for a Copy of this Sermon, preached at the Fu<g ref="char:EOLhyphen"/>neral of your Dear Brother, and my very Good Friend. It muſt be the relation it hath to him that hath moved you to deſign the Printing of it. And though I am very ſenſible how unfit it is to be thus ex<g ref="char:EOLhyphen"/>poſed, yet it is ſome ſatisfaction to me, that by conſenting to it, I ſhall ſhew how
+<pb facs="tcp:47260:3"/> hard it is for me, to refuſe you any thing that may be a teſtimony of my reſpect and gratitude. I do often think, with a great deal of pleaſure, on that exemplary Vir<g ref="char:EOLhyphen"/>tue, and moſt tender Love to one another, which are ſo remarkable in every one of you: And that you may be ſtedfaſt and unmoveable, always abounding in theſe things, and long enjoy the comfortable fruits of them, is the hearty Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt obliged Friend and Servant,</hi> Lilly Butler.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:47260:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>REV. XIV. 13.</hi>
+               </bibl>
+               <q>Bleſſed are the dead which die in the Lord, from henceforth: Yea, ſaith the Spirit, that they may reſt from their labours, and their works do fol<g ref="char:EOLhyphen"/>low them.</q>
+            </epigraph>
+            <p>BLeſſedneſs is that which all men naturally deſire; but the greateſt part of them either cannot or rather will not under<g ref="char:EOLhyphen"/>ſtand, when, and how, and where alone it can be found. Moſt men ſeek no farther for it than their Senſes will direct and guide them; and think for certain it reſides amongſt <hi>the things that are ſeen, and are but temporal.</hi> One eagerly purſu<g ref="char:EOLhyphen"/>eth the <hi>deceitfull</hi> and <hi>uncertain riches</hi> of this World; wearieth his body, breaketh his reſt, defileth his conſcience, and, whilſt he little thinks of it, ſelleth his ſoul too; that he may fill his baggs and barns, and increaſe his treaſures and revenues: and all this while flatters himſelf, that if he can but accompliſh his deſigns, he ſhall then be a happy man, and may <hi>ſay to his ſoul,</hi> as the rich man in the Goſpel did to his, <hi>Soul take thine eaſe,
+<pb n="2" facs="tcp:47260:4"/> eat, drink and be merry; for thou haſt goods laid up for many years.</hi> But, alas! in a very little while, and for the moſt part before he can attain to that rich-man's wealth and increaſe, he receives his dreadfull rebuke and ſummons; <hi>Thou fool, ſaith God to him,</hi> this day or <hi>this night thy ſoul ſhall ſhall be required of thee;</hi> and then, poor wretch, all his hopes and expectations periſh; and the intolerable miſery he is condemned to ſadly diſcovers his miſtake of happineſs. Ano<g ref="char:EOLhyphen"/>ther confidently perſwades himſelf, that there is no happineſs like greatneſs and honour; that, if he could but attain to ſuch a height of dignity and preferment, then without all peradventure he ſhould be a happy man. But oftentimes whilſt he is ſtudying and contriving to advance himſelf, before he can reach his affected honours, Death comes and ſpoils all his plots: Or if he do perfect his deſigns, he injoys his honour but a very little while, and then is thrown down from the height of all his glory, his body into the grave, and his ſoul as low as hell. A third derides and laughs at the folly of others, and very confident<g ref="char:EOLhyphen"/>ly preſumes that he hath found the trueſt happi<g ref="char:EOLhyphen"/>neſs, even carnal delights and pleaſures, the <hi>fa<g ref="char:EOLhyphen"/>ring ſumptuouſly every day,</hi> and ſpending his days and nights <hi>in rioting and drunkenneſs, in chambring
+<pb n="3" facs="tcp:47260:4"/> and wantonneſs,</hi> in contriving and acting new ſcenes of luſt and intemperance. But, alas! this man's fondly conceited happineſs, promotes and haſtens his real miſery, diſtempers his body, conſumes his ſtrength, and ſhortens his life, which is no ſooner ended, but inſtead of thoſe ſoft delights, thoſe pleaſures of ſin he enjoyed for a ſeaſon, he is forced to lie down in unquenchable flames, to <hi>weep and wail</hi> for ever <hi>in that place of torment prepared for the Devil and his Angels.</hi> Indeed we are all too apt to take up our reſt here, and to look for too much happineſs in this world,<note place="margin">Job 5.7.</note> where we are <hi>born to trouble as the ſparks fly upwards.</hi> But if we hearken to the Divine Authour of my <hi>Text,</hi> he will there diſcover our miſtake in this matter: he will tell us, as he was taught it immediately by a voice from heaven; the ſeaſon, and nature, and ſubjects of true felicity. <hi>I heard a voice from heaven, ſaying unto me, Write, Bleſſed are the dead which die in the Lord, from henceforth: Yea, ſaith the Spirit, that they may reſt from their labours; and their works do follow them.</hi>
+            </p>
+            <p>In theſe words we have, Firſt, A deſcripti<g ref="char:EOLhyphen"/>on of thoſe that are <hi>bleſſed</hi> and happy men; <hi>Bleſſed are the dead which die in the Lord.</hi> Second<g ref="char:EOLhyphen"/>ly, The certainty of their bleſſedneſs from the
+<pb n="4" facs="tcp:47260:5"/> teſtimony of the <hi>Spirit. Yea, ſaith the Spirit.</hi> Thirdly, The nature of their <hi>bleſſedneſs;</hi> It is a <hi>Reſt; That they may reſt from their labours:</hi> and a <hi>Reward, Their works do follow them.</hi> I purpoſe to ſpeak ſomething to the ſeveral parts of my <hi>Text,</hi> and conclude with ſome ſeaſonable Appli<g ref="char:EOLhyphen"/>cation of it.</p>
+            <p>Firſt, Here is the Deſcription of thoſe that are <hi>bleſſed</hi> and happy men; <hi>The dead which die in the Lord.</hi>
+            </p>
+            <p>Firſt, <hi>The Dead,</hi> and not the <hi>Living.</hi> It is a true account which <hi>Job</hi> giveth us of the Life of man, <hi>c.</hi> 14. <hi>v.</hi> 1. <hi>Man that is born of a woman, is of few days, and full of trouble. Solomon</hi> ſup<g ref="char:EOLhyphen"/>poſeth a far happier ſtate of life than was ever yet found in this World, and pronounceth of this likewiſe, that it is but vanity. <hi>Eccl.</hi> 11.28. <hi>If a man live many years, and rejoyce in them all; yet let him remember the days of darkneſs, for they ſhall be many. All that cometh is vanity.</hi> And cer<g ref="char:EOLhyphen"/>tainly we may rely upon the judgment of <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> in this matter; who, if there had been any happineſs in this world, would undoubtedly have met with it. He had experienced moſt, and he had ſearched into all the admired enjoyments of this world; and the concluſion he made af<g ref="char:EOLhyphen"/>ter all his diligent and exact inquiries, he telleth
+<pb n="5" facs="tcp:47260:5"/> us himſelf, <hi>Eccl.</hi> 1.14. <hi>I have ſeen all the works that are done under the Sun, and behold, all is va<g ref="char:EOLhyphen"/>nity and vexation of ſpirit.</hi> There are but two ſorts of men, the Wicked and the Righteous, and neither of theſe can be happy here. <hi>The Wicked are like a troubled Sea that cannot reſt.</hi>
+               <note place="margin">Iſa. 57.20</note> They have always ſomething to ruffle and diſturb their minds; ſome unruly luſts, diſordering paſſions, unſatisfied deſires, diſappointed expectations, or the ſevere rebukes of a condemning conſci<g ref="char:EOLhyphen"/>ence: Beſides thoſe pains and diſeaſes, thoſe croſſes and miſchiefs, and other outward evils, which are the natural or moral effects of Sin, the common fruit or puniſhment of it. So that were it poſſible to make their hearts as viſible as their vices, we ſhould ſoon ſee what little rea<g ref="char:EOLhyphen"/>ſon there is to <hi>call the proud happy,</hi> or to disbelieve the teſtimony of the Prophet, <hi>That there is no peace to the wicked.</hi> As for Good and Righteous men, it cannot be imagined that they ſhould be acquainted with <hi>reſt</hi> and <hi>happineſs</hi> where they are <hi>ſtrangers and pilgrims,</hi> at ſo great a diſtance from their Father's houſe, and the <hi>inheritance</hi> prepared and <hi>reſerved for them. They are not of the world, and therefore the world hateth them,</hi> and is ready to <hi>ſay,</hi> and do <hi>all manner of evil againſt them.</hi> They are not perfectly free from Sin, which is it ſelf a
+<pb n="6" facs="tcp:47260:6"/> heavy burthen to them, and moveth their <hi>Hea<g ref="char:EOLhyphen"/>venly Father</hi> to correct them. They carry a bo<g ref="char:EOLhyphen"/>dy of fleſh about them, which <hi>luſteth</hi> and <hi>war<g ref="char:EOLhyphen"/>reth againſt the Spirit.</hi> They have an <hi>Adverſary the Devil</hi> that continually aſſaults them. And amidſt all theſe diſturbances, who can be hap<g ref="char:EOLhyphen"/>py? Moſt certain then is it, that <hi>here is not our reſt;</hi> that amongſt the Living, Bleſſedneſs cannot be found; but as we are taught in the Text, it is the Portion of the Dead, <hi>Bleſſed are the Dead.</hi> And were this true of all that are ſo, it were a comfortable doctrine indeed, and Death would deſerve ſome mild and gentle name, inſtead of that frightfull character, <hi>The King of Terrors.</hi> But it is not every one that dies, but only thoſe <hi>that die in the Lord,</hi> that are made Partakers of this happineſs. Which brings me to the other part of their character, Who are <hi>Bleſſed</hi> and Happy men.</p>
+            <p>Secondly, They are thoſe <hi>Which die in the Lord. Bleſſed are the dead which die in the Lord.</hi> In ſpeaking to this I ſhall ſhew, Firſt, Who they are that <hi>die in the Lord;</hi> and, Secondly, That theſe only are <hi>Bleſſed.</hi>
+            </p>
+            <p>Firſt, Who they are <hi>which die in the Lord.</hi> Some, inſtead of <hi>in the Lord,</hi> read <hi>for the Lord,</hi> taking the Bleſſedneſs of the <hi>Text</hi> to be pronoun<g ref="char:EOLhyphen"/>ced
+<pb n="7" facs="tcp:47260:6"/> of thoſe that, in the times of perſecution, loſt their Lives for the ſake of their Lord and Maſter <hi>Jeſus Chriſt.</hi> But I rather think the words are to be taken in a larger ſenſe, as ſignifying thoſe which St. <hi>Paul</hi> calleth, <hi>The dead in Chriſt,</hi> 1 <hi>Theſſ.</hi> 4.16. all thoſe that die in the <hi>Fear of God</hi> and in the <hi>Faith of our Lord Jeſus Chriſt.</hi> Thoſe that are <hi>faithfull unto death, and keep the works of God unto the end,</hi> or as they are deſcribed in the Verſe before the Text, <hi>They that keep the commandments of God, and the faith of Jeſus.</hi> They that do this; and, notwithſtanding all the op<g ref="char:EOLhyphen"/>poſition they meet with, perſevere in doing thus unto the end; Theſe, and which is the next thing I am to ſhew,</p>
+            <p>Secondly, Theſe only being <hi>Dead are Bleſſed. The wicked is driven away in his wickedneſs,</hi> ſaith <hi>Solomon, but the righteous hath hope in his death.</hi> Prov. 14.32. <hi>When a wicked man dieth, his ex<g ref="char:EOLhyphen"/>pectation ſhall periſh, and the hope of unjuſt men periſheth.</hi> Whilſt they live they may, and often do, flatter themſelves with hopes of Happineſs hereafter; but Death makes a lamentable diſco<g ref="char:EOLhyphen"/>very of the vanity and deceit of all ſuch pre<g ref="char:EOLhyphen"/>ſumptuous expectations. The Son of God him<g ref="char:EOLhyphen"/>ſelf hath told us, that, <hi>If we will enter into life, we muſt keep the commandments,</hi> Matt. 19.17. that
+<pb n="8" facs="tcp:47260:7"/> the <hi>Bleſſed are thoſe that do his commandments, that they may have right to the tree of life, and may en<g ref="char:EOLhyphen"/>ter in through the gates into the city,</hi> Rev. 22.14. The promiſes of <hi>eternal life, glory, honour and im<g ref="char:EOLhyphen"/>mortality</hi> belong only <hi>to them who by patient conti<g ref="char:EOLhyphen"/>nuance in well doing</hi> are made <hi>meet to be partakers</hi> of them. <hi>But to thoſe that obey not the truth, but obey unrighteouſneſs,</hi> God will <hi>render,</hi> ſaith S. <hi>Paul, indignation and wrath, tribulation and anguiſh upon every ſoul of man that doth evil,</hi> Rom. 2.7, 8, 9.</p>
+            <p>Indeed, if we do but ſeriouſly conſider the re<g ref="char:EOLhyphen"/>fined and ſpiritual nature of true Happineſs, we ſhould certainly think it a moſt abſurd thing to imagin, that thoſe who die in their wickedneſs ſhould be made Partakers of it. Can you think that God will doe himſelf that which he hath forbidden us? that he will <hi>caſt pearls before ſwine,</hi> or that he will throw <hi>his childrens meat unto dogs?</hi> that he will proſtitute the divine and ſpiritual Bleſſings of the world to come, to thoſe that have drowned their ſouls in the bruitiſh pleaſures of fleſh and ſenſe? But if we could ſuppoſe that <hi>God, who is of purer eyes than to behold evil, that cannot look upon iniquity,</hi> ſhould be willing to receive the obſtinate <hi>workers</hi> of it to dwell for ever in his preſence; yet even there they would not be happy. For there are many Sins which in
+<pb n="9" facs="tcp:47260:7"/> their own nature include trouble, as envy, wrath, malice, covetouſneſs, exceſs, with many others. But they are all contrary to the pure and holy nature of God, to his Image, which is the Glo<g ref="char:EOLhyphen"/>ry and Happineſs of the Saints in Heaven, and whereſoever they are, they are always attended with a darkneſs of the Underſtanding, a per<g ref="char:EOLhyphen"/>verſeneſs of the Will, a diſorder and deprava<g ref="char:EOLhyphen"/>tion of the Soul. And is it poſſible a man ſhould be happy, and at the ſame time incum<g ref="char:EOLhyphen"/>bred with theſe, the worſt of evils, ſuch as cor<g ref="char:EOLhyphen"/>rupt and diſtemper the Soul, the better part of Man, and are moſt oppoſite to the greateſt good, to God the only enjoyment that can make us happy? If then <hi>as the Tree falls, ſo it lies:</hi> If we muſt go into the other World in the ſame ſtate we leave this, and thoſe that die <hi>unjuſt and filthy,</hi> muſt be <hi>unjuſt and filthy ſtill;</hi> it is impoſſible that they ſhould be happy, who, inſtead of being <hi>faithfull</hi> and <hi>obedient,</hi> continue wicked <hi>unto death,</hi> unleſs we can reconcile tor<g ref="char:EOLhyphen"/>ment and bliſs, ſin and holineſs, the image of the Devil and the image of God. But on the other ſide, <hi>Lift up your heads,</hi> O ye Righteous, and be not diſmay'd at the thoughts of Death: For as that approacheth, ſo <hi>your redemption draw<g ref="char:EOLhyphen"/>eth
+<pb n="10" facs="tcp:47260:8"/> nigh. In</hi> your <hi>Father's houſe there are many manſions,</hi> and the Bleſſed Jeſus is gone <hi>before to prepare a place for you,</hi> and <hi>yet a little while,</hi> and he will <hi>come again, and receive you unto himſelf, that where he is, there ye may be alſo.</hi> In the mean time <hi>he hath not left you comfortleſs,</hi> for he hath given the Holy Spirit <hi>to revive the humble and con<g ref="char:EOLhyphen"/>trite ſoul,</hi> to give invincible teſtimony to the truth of all his promiſes, particularly to that of <hi>Bleſſedneſs</hi> to them that <hi>die in the Lord:</hi> Which brings me to the next thing obſerved in the <hi>Text,</hi> which is,</p>
+            <p>Secondly, The certainty of their <hi>Bleſſedneſs who die in the Lord</hi> from the teſtimony of the <hi>Spirit; Yea, ſaith the Spirit.</hi> Wicked men may think it <hi>in vain to ſerve God,</hi> and <hi>count the life</hi> of the righteous <hi>madneſs;</hi> but it were happy for them, if they might <hi>die the death of the righteous, and have their latter end like theirs.</hi> For when a Good man dies, then all his <hi>labour and ſorrow</hi> is at an end; and he enters upon a ſtate of happi<g ref="char:EOLhyphen"/>neſs that hath no period. And his hopes of theſe things are not like the flattering fancies of un<g ref="char:EOLhyphen"/>godly men, which have no foundation but their own folly: But they are founded upon a rock, upon the ſteady and immutable Word of God,
+<pb n="11" facs="tcp:47260:8"/> which, though <hi>heaven and earth ſhall paſs away,</hi> can never be moved, <hi>ſhall never fail. Bleſſed are the Dead that die in the Lord: Yea, ſaith the Spi<g ref="char:EOLhyphen"/>rit, the Spirit</hi> of God Almighty, who therefore can; <hi>the Spirit of truth,</hi> who therefore cannot but do what he hath promiſed. And their Bleſ<g ref="char:EOLhyphen"/>ſedneſs is as great as it is certain, for <hi>they ſhall reſt from all their labours, and their works ſhall fol<g ref="char:EOLhyphen"/>low them</hi> in a glorious reward. Which is the next thing obſerved in the <hi>Text; viz.</hi>
+            </p>
+            <p>Thirdly, The nature of their happineſs who <hi>die in the Lord;</hi> it is a <hi>Reſt, That they may Reſt from their labours;</hi> and a <hi>Reward, Their works do fol<g ref="char:EOLhyphen"/>low them.</hi>
+            </p>
+            <p>Firſt, It is a <hi>Reſt,</hi> a <hi>Reſt from</hi> all <hi>their labours;</hi> that is, from every thing that brings with it ei<g ref="char:EOLhyphen"/>ther pain, or trouble, or ſorrow.</p>
+            <p>Firſt, <hi>They Reſt from</hi> all the neceſſary <hi>labours</hi> of this life. The good things of this world are gotten and preſerved with care and induſtry, and men <hi>eat bread in the ſweat of their brows.</hi> God hath therefore allotted us ſix days in ſeven for our labours of this kind. But thoſe that <hi>die in the Lord</hi> do immediately enter upon a perpe<g ref="char:EOLhyphen"/>tual Sabbath. The labours of <hi>Seed-time and Har<g ref="char:EOLhyphen"/>veſt,</hi> of Trade and Study ceaſe for ever: and
+<pb n="12" facs="tcp:47260:9"/> they have a conſtant ſupply of all good, with<g ref="char:EOLhyphen"/>out any uneaſy thought, or care, or pains taken for it.</p>
+            <p>Secondly, <hi>They Reſt from</hi> all <hi>their labours</hi> un<g ref="char:EOLhyphen"/>der the rage and malice, the injuſtice and perſe<g ref="char:EOLhyphen"/>cution of their enemies. <hi>They that will live god<g ref="char:EOLhyphen"/>ly in Chriſt Jeſus</hi> muſt look to <hi>ſuffer,</hi> under the hands or tongues of an ungodly World. And indeed oftentimes, ſuch are the <hi>hard ſpeeches</hi> and the cruel uſage they meet with from it, that if they had <hi>hope only in this life,</hi> they would <hi>of all men be the moſt miſerable:</hi> But when once Death hath removed them hence, they are preſently advanced above the reach of all their enemies, covered with the wings of the Almighty, and received into the everlaſting protection of <hi>the Lord God of hoſts.</hi>
+            </p>
+            <p>Thirdly, <hi>They reſt from</hi> all <hi>their labours</hi> un<g ref="char:EOLhyphen"/>der the correcting hand of their <hi>Father which is in heaven.</hi> Whilſt they are <hi>in the body,</hi> they are too prone to fall into ſin, and <hi>to fulfill the deſires of the fleſh.</hi> And therefore God, in love and mercy, doth take the rod into his hand, chaſten and correct them here, that they might <hi>not be condemned with the world</hi> or <hi>delivered into the bitter pains of eternal death.</hi> But no ſooner hath Death
+<pb n="13" facs="tcp:47260:9"/> pulled down <hi>theſe earthly tabernacles,</hi> but thence<g ref="char:EOLhyphen"/>forth, they neither feel nor need any more cor<g ref="char:EOLhyphen"/>rection: Then they are perfectly reſcued from all pains and diſeaſes, from all croſſes and afflicti<g ref="char:EOLhyphen"/>ons whatſoever. There is no <hi>need of patience</hi> which was ſo neceſſary in our ſtate of trial here. For there is nothing troubleſome or uneaſy in <hi>that Reſt which remains for the people of God.</hi>
+            </p>
+            <p>Fourthly, <hi>They Reſt from</hi> all <hi>their labours</hi> and trouble, under the difficulty of their duty, and the aſſaults of their ſpiritual enemies. Whilſt they are here, they are always in a Military ſtate, continually combating with the Devil, the World and the Fleſh. The Devil ſeeks, with unwearied diligence, to turn them out of the ways of God, or to render their progreſs there<g ref="char:EOLhyphen"/>in painfull and unpleaſant. The Fleſh is ready upon all occaſions to mutiny and rebell; inſo<g ref="char:EOLhyphen"/>much that they are forced to keep a diligent watch over it, or it would ſoon betray them to the rage and malice of their enemy without. They meet with many and violent temptations from a <hi>corrupt and naughty world,</hi> and much op<g ref="char:EOLhyphen"/>poſition in <hi>running the race that is ſet before them,</hi> and are conſtrained to uſe a great deal of care and ſtudy, labour and induſtry, <hi>to bring into
+<pb n="14" facs="tcp:47260:10"/> captivity</hi> their <hi>thoughts,</hi> words, and actions <hi>unto the obedience of Chriſt.</hi> This is the condition of all the faithfull diſciples of Chriſt, ſo long as they abide here. But no ſooner are their <hi>Spirits returned to God that gave them,</hi> but all their <hi>ſtri<g ref="char:EOLhyphen"/>ving</hi> and <hi>fighting</hi> is at an end. Their <hi>warfare is accompliſhed,</hi> and they <hi>are more then conquerors.</hi> Henceforth there will be no Devil to tempt them, no <hi>law in their members warring againſt the law of their minds.</hi> Mortification, contrition, ſelf<g ref="char:EOLhyphen"/>denial, taking up the croſs, and all the uneaſy part of their duty here, will have no place. They will then be obliged to nothing but what is high<g ref="char:EOLhyphen"/>ly acceptable to the whole man, nothing but what is neceſſary to compleat their happineſs. Thus, <hi>Bleſſed are the dead which die in the Lord:</hi> Thus, and abundantly more too, They not on<g ref="char:EOLhyphen"/>ly <hi>Reſt from their labours,</hi> but <hi>their works do fol<g ref="char:EOLhyphen"/>low them;</hi> which is the Second part of the de<g ref="char:EOLhyphen"/>ſcription of their happineſs.</p>
+            <p>Secondly, <hi>Their works do follow them;</hi> that is, they ſhall not be forgotten when they are dead, but eternally crowned with a glorious reward. When all their earthly enjoyments forſake them, then their <hi>works</hi> of righteouſneſs will remain with them, and plead their title through the me<g ref="char:EOLhyphen"/>rits
+<pb n="15" facs="tcp:47260:10"/> of Chriſt, to that <hi>kingdom prepared for them from the foundation of the world. Be ye ſtedfaſt,</hi>
+               <note place="margin">1 Cor. 15.58</note> 
+               <hi>and unmoveable,</hi> ſaith St. <hi>Paul</hi> to the <hi>Corinthians, always abounding in the work of the Lord, foraſmuch as ye know that your labour is not in vain in the Lord.</hi> In vain? No, it ſhall be abundantly recompen<g ref="char:EOLhyphen"/>ced with a great and ineſtimable reward. A re<g ref="char:EOLhyphen"/>ward that becomes the Sovereign Lord of heaven and earth to beſtow, and was purchaſed for us with the precious blood of his only-begotten Son: A reward that will make us like the Beſt of beings, and put us in poſſeſſion of the Su<g ref="char:EOLhyphen"/>preme good: A reward that contains in it, Trea<g ref="char:EOLhyphen"/>ſures that are ineſtimable and incorruptible, a Crown that never fades, an <hi>eternal weight of Glo<g ref="char:EOLhyphen"/>ry; Joys</hi> that are <hi>unſpeakable,</hi> and <hi>Pleaſures at God's right hand for ever-more:</hi> A reward of infinitely greater value, than all that wealth and treaſures, crowns and kingdoms, victories and triumphs, and a thouſand more ſuch words can ſignify. In ſhort, It is a reward above all our expreſſi<g ref="char:EOLhyphen"/>ons, above all our hopes, and above all our ima<g ref="char:EOLhyphen"/>ginations. <hi>O the height and depth</hi> of the love of God! <hi>How unſearchable</hi> are his mercies, and the extent of his goodneſs <hi>paſt finding out?</hi> Shall ſuch contemptible worms be thus advanced by him?
+<pb n="16" facs="tcp:47260:11"/> Shall ſuch provoking ſinfull creatures, be made partakers of the joy and glory, the nature and happineſs of their great Creator? <hi>Lord! what is man that thou art thus mindfull of him?</hi> that thou ſhould'ſt thus reward our weak and imperfect ſervices? The beſt of us, when we have done our beſt, are but <hi>unprofitable ſervants. Not un<g ref="char:EOLhyphen"/>to us</hi> therefore, <hi>not unto us,</hi> but unto God, our good and gracious God, be all the praiſe and glory of that reward, the <hi>Bleſſedneſs</hi> of them that <hi>die in the Lord.</hi>
+            </p>
+            <p>I proceed now to make ſome ſeaſonable ap<g ref="char:EOLhyphen"/>plication of the ſeveral parts of my <hi>Text,</hi> which I have ſpoken to. Since there is no happineſs amongſt the Living, but only, <hi>The Dead are Bleſſed.</hi>
+            </p>
+            <p>Firſt, Let us reflect a little upon our ſelves, and conſider whether we live as becomes thoſe, that do in earneſt believe theſe things. Is there ſomething here below that hath the ſtrongeſt of your affections, and the moſt vigorous of all your endeavours? Is your care greater, and your concern more lively for the things of this life, than for the <hi>Bleſſedneſs</hi> of thoſe that are <hi>Dead in Chriſt?</hi> Are Riches, or Honour, or Pleaſure
+<pb n="17" facs="tcp:47260:11"/> the moſt frequent and delightfull matter of your deſires and thoughts? If theſe things are ſo, you have certainly made a weak, a miſerable choice. You have taken up your reſt here, and eſpouſed that for your beſt beloved, and moſt deſired happineſs, which hath nothing to do, which hath no being in the ſtate of true Felicity. If there be any here that find themſelves guilty of this extreme and dangerous folly, let me exhort you,</p>
+            <p>Secondly, To make a better and a wiſer choice. Seeing there is no happineſs but amongſt the <hi>Dead,</hi> ſee that ye live like men that are thus perſwaded. Tear the world out of your hearts, and moderate your <hi>labour for the meat that periſh<g ref="char:EOLhyphen"/>eth.</hi> Let your hearts be more in heaven, and your deſires and endeavours moſt earneſt for the <hi>Bleſſedneſs</hi> of ſuch as <hi>die in the Lord.</hi> If <hi>this</hi> be <hi>not our Reſt, let us labour for that Reſt which re<g ref="char:EOLhyphen"/>mains.</hi> Let us live as becomes thoſe that profeſs themſelves, but <hi>ſtrangers and pilgrims upon earth,</hi> to be <hi>ſeeking</hi> after, and travelling towards <hi>ano<g ref="char:EOLhyphen"/>ther, a better, an heavenly Country.</hi> Alas! What is there in this world, that is <hi>worthy to be compared, with that glory which ſhall be revealed</hi> and enjoyed in the other? Do but look before you, and
+<pb n="18" facs="tcp:47260:12"/> there ye may ſee what, a few years hence, will be the condition of us all. And when that day is come, how little will all the pleaſures, riches, and preferments of the world profit us? In what <hi>then</hi> doth the Greateſt Monarch excell the Pooreſt Beggar, but in a little Funeral Pomp, he is nothing ſenſible of, a greater croud of Wit<g ref="char:EOLhyphen"/>neſſes, and a more laſting Monument of his re<g ref="char:EOLhyphen"/>turn to Duſt? Why then ſhould we doat upon, and place our happineſs in, ſuch mean and pe<g ref="char:EOLhyphen"/>riſhing enjoyments? Let us live above the world whilſt we are in it, and contemn the petty and ignoble deſigns of the Children of it, who expect a <hi>portion in this life only.</hi> Let us lay <hi>our</hi> deſigns for Heaven and Eternity, for that perfect <hi>Reſt,</hi> and that ineſtimable <hi>Reward</hi> which is above, that ſo when the time of our diſſolution is come, it may be ſaid of us; They are <hi>Dead,</hi> and They are <hi>Bleſſed.</hi>
+            </p>
+            <p>Thirdly, Seeing thoſe only that <hi>die in the Lord are bleſſed,</hi> let none of us flatter our ſelves with hopes of happineſs, 'till we are prepared to die thus. There are few Perſons we meet and diſcourſe with, but will profeſs ſome hopes of being happy hereafter; and I would to God we had all ground for the moſt comfortable and
+<pb n="19" facs="tcp:47260:12"/> confident expectations of this kind. But if there be any amongſt you, that live after the fleſh, and fulfill the luſts of it, that allow your ſelves in the practice of any known deliberate ſin; Ye are not prepared to <hi>die the death of the righteous or to have your latter end like theirs.</hi> I ſay no more than what St. <hi>Paul</hi> tells us he had often declared, Gal. 5.19, 20, 21. <hi>The works of the fleſh are ma<g ref="char:EOLhyphen"/>nifeſt, which are theſe, Adultery, fornication, unclean<g ref="char:EOLhyphen"/>neſs, laſciviouſneſs, Idolatry, witchcraft, hatred, vari<g ref="char:EOLhyphen"/>ance, emulations, wrath, ſtrife, ſeditions, hereſies, En<g ref="char:EOLhyphen"/>vyings, murders, drunkenneſs, revellings, and ſuch-like: of which I tell you before, as I have alſo told you in times paſt, that they which do ſuch things ſhall not in<g ref="char:EOLhyphen"/>herit the kingdom of God.</hi>
+            </p>
+            <p>Fourthly, The conſideration of the <hi>Bleſſedneſs</hi> of thoſe that <hi>die in the Lord,</hi> their <hi>Reſt</hi> and their <hi>Reward,</hi> ſhould moderate our grief, for the loſs of thoſe Friends, of whom we have good reaſon to believe that they thus die. Such was this our Deceaſed Brother. He was one that diſcovered an early diſpoſition to piety and religion, and <hi>remembred his Creator in the days of his youth.</hi> He very much delighted in reading of the Beſt Books, in a modeſt diſcourſing and recommending of them, whereby he greatly improved himſelf and
+<pb n="20" facs="tcp:47260:13"/> incouraged others. He abhorred the common Vices of the Prophane Sparks of this age, and could not be perſwaded, that the chief accom<g ref="char:EOLhyphen"/>pliſhments of <hi>Men</hi> were to be learnt from <hi>Beaſts</hi> or <hi>Devils.</hi> He was not in another extreme, mo<g ref="char:EOLhyphen"/>roſe or ſow'r, but exceeding affable and courte<g ref="char:EOLhyphen"/>ous, winning and obliging, chearfull and plea<g ref="char:EOLhyphen"/>ſant in his converſation, as, in obedience to, and for the credit of his Religion, a good man ſhould be. I believe he hardly ever provoked any man, or under-went the cenſure of having done an evil or diſobliging thing. He was beloved and well ſpoken of by all that knew him; He was a ſin<g ref="char:EOLhyphen"/>cere and hearty Friend, a zealous promoter of peace and unity amongſt all his acquaintance, an ingenious Advocate for any that were cenſu<g ref="char:EOLhyphen"/>red or accuſed, of ſuch <hi>a meek and quiet ſpirit as is of great price, in the ſight</hi> both <hi>of God</hi> and of Man. In a word, <hi>Whatſoever things are honeſt, whatſoever things are lovely, whatſoever things are of good report,</hi> his life was richly furniſhed and a<g ref="char:EOLhyphen"/>dorned with. It pleaſed God, towards the lat<g ref="char:EOLhyphen"/>ter end of his life, to afflict him with very grie<g ref="char:EOLhyphen"/>vous pains; which gave him an opportunity of manifeſting, a moſt exemplary patience and ſub<g ref="char:EOLhyphen"/>miſſion to the will of God, and his improvement
+<pb n="21" facs="tcp:47260:13"/> in the virtues of an afflicted ſtate alſo. I have not ſaid theſe things to inform you, who were moſt of you acquainted with them before, from your own experience and obſervation; but ra<g ref="char:EOLhyphen"/>ther to bring them to our remembrance, for the provoking our imitation, abating our ſorrow, and incouraging our hopes of his happy ſtate. The manner of his death was very becoming ſuch a life, ſo quiet and compoſed, ſo eaſy and comfortable, that I believe all of us, who were preſent at it, could not but wiſh, that we might ſo die as he died, and that our <hi>latter end</hi> might be <hi>like his.</hi> He is <hi>Dead,</hi> and we may confident<g ref="char:EOLhyphen"/>ly hope he is <hi>Bleſſed</hi> too: that, to uſe his own words, when he ſaw <hi>the time of</hi> his <hi>departure was at hand,</hi> his ſoul hath <hi>taken wings, is fled away, and is at reſt.</hi>
+            </p>
+            <p>Laſtly, Let the conſideration of the Bleſſed<g ref="char:EOLhyphen"/>neſs of thoſe which <hi>die in the Lord,</hi> incourage, and effectually perſwade us all to keep the Command<g ref="char:EOLhyphen"/>ments of God, and the Faith of Jeſus; to make it the great concern and buſineſs of our lives, to behave our ſelves ſo, that at length we may be <hi>Bleſſed</hi> with all thoſe that <hi>die in the Lord.</hi> Let the <hi>time paſt of our lives ſuffice to have done the will of the</hi> Fleſh; and let us reſolve for the time to
+<pb n="22" facs="tcp:47260:14"/> come, to <hi>deny ungodlineſs and worldly luſts, and to live ſoberly, righteouſly and godly in this preſent world.</hi> Can any thing better deſerve your care and la<g ref="char:EOLhyphen"/>bour, than that everlaſting <hi>Reward</hi> and <hi>Reſt</hi> which God hath prepared for them that live and <hi>die in</hi> him? Do the Commandments of God ſeem grievous to you? But can you think them ſo, whilſt you have <hi>reſpect unto the recompence of the reward?</hi> Will not Heaven make a ſufficient a<g ref="char:EOLhyphen"/>mends for all? Will not the <hi>Bleſſedneſs</hi> of <hi>the Dead</hi> abundantly out-weigh all the difficulties of a holy Life? Are you afraid the World ſhould deride and perſecute you, if you ſhould be true to God and your Conſcience, and lead a Virtuous and a Chriſtian life? But why ſhould this diſcourage you? There is a day coming, and it is not far off, when, if you do but endure and perſevere 'till then, you ſhall be exalted a<g ref="char:EOLhyphen"/>bove the malice of ungodly men, who ſhall ad<g ref="char:EOLhyphen"/>mire your wiſdom, and envy your happineſs for ever. Are you loth to forego thoſe ſinfull de<g ref="char:EOLhyphen"/>lights, you muſt needs forſake, if you would prepare your ſelves to <hi>die in the Lord?</hi> But is there any compariſon, betwixt theſe <hi>pleaſures of ſin,</hi> which are but <hi>for a ſeaſon,</hi> and thoſe pure, divine and everlaſting joys that are above? Let
+<pb n="23" facs="tcp:47260:14"/> us then contemn the frowns, and trample upon the moſt inticing allurements, of the Devil and the World, and reſolve to be <hi>ſtedfaſt and unmove<g ref="char:EOLhyphen"/>able,</hi> diligent and <hi>abounding, in the work of the Lord.</hi> God doth now call upon you, by the motives and arguments of the <hi>Text,</hi> and by this inſtance of Mortality before you, that you would no longer <hi>delay the time, but make haſt to keep his com<g ref="char:EOLhyphen"/>mandments. To day then, even whilſt it is called to day,</hi> let us <hi>hear</hi> and obey <hi>the voice of God;</hi> let us not dare to <hi>harden our hearts</hi> this one day more, for <hi>who knows what a day may bring forth?</hi> If you will not <hi>know in this</hi> your <hi>day the things that be<g ref="char:EOLhyphen"/>long unto</hi> your <hi>peace,</hi> your everlaſting peace and happineſs, for ought you know, they may hence<g ref="char:EOLhyphen"/>forth be <hi>hid from your eyes</hi> for ever. <hi>Oh! that we were wiſe, that we did conſider our latter end!</hi> and <hi>ſo number our days,</hi> as effectually to <hi>apply our hearts unto that holy and heavenly Wiſdom whilſt we live here, which may in the end bring us to everlaſt<g ref="char:EOLhyphen"/>ing life,</hi> to the <hi>Bleſſed Reſt</hi> and the Glorious <hi>Re<g ref="char:EOLhyphen"/>ward</hi> of thoſe that live and <hi>die in the Lord.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="22" facs="tcp:47260:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:47260:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:47260:16"/>
+            <head>Advertiſement.</head>
+            <p>NEwly printed, the Holy Bible: Containing the Old Teſtament and the New; with Annotations, and Parallel Scriptures. To which is annexed, The Harmony of the Goſpels: As alſo, The Reduction of the Jewiſh Weights, Coins and Meaſures, to our Engliſh Standards; And a Table of the Promiſes in Scripture. By <hi>Samuel Clark,</hi> Miniſter of the Goſpel. Printed in <hi>Folio</hi> of a fair Letter; the like never before in one Volume.</p>
+            <p>Printed for <hi>Brabazon Aylmer</hi> in <hi>Cornhill.</hi>
+            </p>
+            <p>The Four Laſt Things; <hi>viz.</hi> Death, Judgment, Hea<g ref="char:EOLhyphen"/>ven and Hell; Practically conſider'd and apply'd in ſe<g ref="char:EOLhyphen"/>veral Diſcourſes. By <hi>William Bates,</hi> D. D.</p>
+            <p>
+               <hi>Recommended as proper to be given at Funerals.</hi>
+            </p>
+            <pb facs="tcp:47260:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
